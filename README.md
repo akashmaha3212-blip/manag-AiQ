@@ -1,0 +1,2 @@
+# manag-AiQ
+geographical information 
